@@ -101,6 +101,14 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/6f3c07b1-f920-4c04-9913-30b18bede42b)
 
+- Verificar el rol
+
+![image](https://github.com/user-attachments/assets/0b7378ec-0c79-4ff2-ad89-200121ff3b46)
+
+- Creación de usuario IAM s3-support
+
+![image](https://github.com/user-attachments/assets/1ad3a824-125c-4924-aeff-eb7cb664f7c2)
+
 
 
 
