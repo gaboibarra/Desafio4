@@ -147,6 +147,11 @@ cp prueba.txt s3://educacionit-cli/
 
 ![image](https://github.com/user-attachments/assets/e7282e2b-cbda-47e5-bc04-4956cab96b70)
 
+## 🛡️ **Notas Finales**
+
+- **Seguridad**: Eliminar las credenciales temporales después de completar las pruebas.
+- **Depuración**: Usar la opción --debug en los comandos para resolver problemas.
+
 ## 🛠️ **Tecnologías Utilizadas**
 
 El proyecto se desarrolló utilizando las siguientes herramientas y tecnologías:
