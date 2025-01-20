@@ -134,3 +134,15 @@ Una vez instalado acceder con: `aws-shell`
 echo "Prueba de excritura en S3" > prueba.txt
 ```
 ![image](https://github.com/user-attachments/assets/dd9eb36a-4b83-4209-b1f3-13c6aa6f6dd9)
+
+- Subir el archivo al bucket
+
+```bash
+cp prueba.txt s3://educacionit-cli/
+```
+
+![image](https://github.com/user-attachments/assets/2d390364-e4fc-409a-afbd-2519a9b90367)
+
+
+
+
