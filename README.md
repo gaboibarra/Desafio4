@@ -157,7 +157,6 @@ Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-| Tecnología | Descripción |
 |------------|-------------|
 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python** | Utilizado para instalar y configurar `aws-shell`. |
 | ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) **Amazon Web Services (AWS)** | Configuración de S3, IAM y CLI para gestionar servicios en la nube. |
