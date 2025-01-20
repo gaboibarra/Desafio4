@@ -157,8 +157,8 @@ Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**: Utilizado para instalar y configurar `aws-shell`.
-- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **Amazon Web Services (AWS)**: Configuración de S3, IAM y CLI para gestionar servicios en la nube.
-- ![JSON](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg) **JSON**: Formato utilizado para definir políticas de IAM.
-- ![Markdown](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg) **Markdown**: Documentación del proyecto.
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) **Python**: Utilizado para instalar y configurar `aws-shell`.
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) **Amazon Web Services (AWS)**: Configuración de S3, IAM y CLI para gestionar servicios en la nube.
+- ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=json&logoColor=white) **JSON**: Formato utilizado para definir políticas de IAM.
+- ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white) **Markdown**: Documentación del proyecto.
 
