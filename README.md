@@ -41,10 +41,11 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/c96376a2-473a-479e-b46d-4549637a3d0f)
 
-## **3. Configuracion de CLI de AWS
+## **3. Configuracion de CLI de AWS**
 
 - Abrir una ventana de CMD y escribir el comando `aws-shell`
 - Configura el CLI con el Usuario Administrador con el comando `configure`
+![image](https://github.com/user-attachments/assets/2480c37f-bcc4-45b3-aa13-17970749c68d)
 
 
 
