@@ -117,7 +117,8 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/819b9f43-260d-4509-9374-5ce7702ce6f3)
 
-- Configurar las credenciales temporales (se debe tomar los valores de **AccesKeyID**, **SecretAccessKey**, y **SessionToken**) estos se muestran en el paso anterior cuando se asume el rol
+- Configurar las credenciales temporales (se debe tomar los valores de **AccesKeyID**, **SecretAccessKey**, y **SessionToken**)
+  estos se muestran en el paso anterior cuando se asume el rol
 
 ![image](https://github.com/user-attachments/assets/3fd092c4-e6cd-4d33-8e69-4ef57b23767f)
 
