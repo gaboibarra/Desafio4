@@ -76,3 +76,5 @@ Una vez instalado acceder con: `aws-shell`
   ]
 }
 ```
+
+- Crear la política para **asumir** el rol 
