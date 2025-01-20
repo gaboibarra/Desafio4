@@ -122,6 +122,14 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/3fd092c4-e6cd-4d33-8e69-4ef57b23767f)
 
-  
+- Validar el rol asumido
 
+![image](https://github.com/user-attachments/assets/b9b71c75-482d-430a-a714-dee12c285893)
 
+## **7. Probar la escritura en el Bucket**
+
+- Crear un archivo de prueba
+
+```bash
+echo "Prueba de excritura en S3" > prueba.txt
+```
