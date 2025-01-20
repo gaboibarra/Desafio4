@@ -172,7 +172,7 @@ STS: Generar Credenciales Temporales 🛡
 Rol Asumido 🔄 
    ↓
 Acceso a Recursos 📂
-
+```
 
 ## 🛡️ **Notas Finales**
 
@@ -181,7 +181,6 @@ Acceso a Recursos 📂
 
 ## 📧 Contacto
 Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
-```
 
 ## 🛠️ **Tecnologías Utilizadas**
 
