@@ -143,6 +143,9 @@ cp prueba.txt s3://educacionit-cli/
 
 ![image](https://github.com/user-attachments/assets/2d390364-e4fc-409a-afbd-2519a9b90367)
 
+- Validar la subida del archivo en el bucket por la consola de S3
+
+![image](https://github.com/user-attachments/assets/e7282e2b-cbda-47e5-bc04-4956cab96b70)
 
 
 
