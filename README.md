@@ -109,5 +109,7 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/1ad3a824-125c-4924-aeff-eb7cb664f7c2)
 
+- Crear **credenciales programáticas** para el usuario 
 
+![image](https://github.com/user-attachments/assets/2b291e90-a3b3-44cc-943f-8430a8f8c8f6)
 
