@@ -44,8 +44,22 @@ Una vez instalado acceder con: `aws-shell`
 ## **3. Configuracion de CLI de AWS**
 
 - Abrir una ventana de CMD y escribir el comando `aws-shell`
-- Configura el CLI con el Usuario Administrador con el comando `configure`
+- Configurar el CLI con el Usuario Administrador con el comando `configure`
+  
 ![image](https://github.com/user-attachments/assets/2480c37f-bcc4-45b3-aa13-17970749c68d)
+
+- Verificar las credenciales configuradas
+
+![image](https://github.com/user-attachments/assets/cee6dc4a-2e56-4615-8fb3-0f790237deee)
+
+## **4. Creacion del Bucket S3**
+
+![image](https://github.com/user-attachments/assets/7255c44b-109d-4f7c-b886-09c947617084)
+
+**Verificacion del bucket creado**
+
+![image](https://github.com/user-attachments/assets/116ef938-09ed-412c-8f42-0696ff214ec0)
+
 
 
 
