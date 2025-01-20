@@ -152,6 +152,9 @@ cp prueba.txt s3://educacionit-cli/
 - **Seguridad**: Eliminar las credenciales temporales después de completar las pruebas.
 - **Depuración**: Usar la opción --debug en los comandos para resolver problemas.
 
+## 📧 Contacto
+Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
+
 ## 🛠️ **Tecnologías Utilizadas**
 
 El proyecto se desarrolló utilizando las siguientes herramientas y tecnologías:
