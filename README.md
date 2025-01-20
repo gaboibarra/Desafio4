@@ -11,7 +11,7 @@ Una vez instalado acceder con: `aws-shell`
 ```
 
 ## **2. Configuracion de credenciales en AWS CLI**
-1. Ingresar a la consola de **AWS** y acceder al servicio IAM -> **Create user**
+- Ingresar a la consola de **AWS** y acceder al servicio IAM -> **Create user**
 
 ![image](https://github.com/user-attachments/assets/ff524d87-43e8-421b-91b6-fcdbe539f4b2)
 
@@ -32,6 +32,14 @@ Una vez instalado acceder con: `aws-shell`
 - Seleccionar el usuario creado y elegir **Create access key**
 
 ![image](https://github.com/user-attachments/assets/c5f6a929-32a0-4b96-bdcd-1f0e1c337f65)
+
+- Asignarle **Command Line Interface (CLI)**
+
+![image](https://github.com/user-attachments/assets/411fe03f-4a9a-417c-86a7-fc0ffe8c89a0)
+
+- Finalizar el proceso y descargar las credenciales .csv
+
+![image](https://github.com/user-attachments/assets/c96376a2-473a-479e-b46d-4549637a3d0f)
 
 
 
