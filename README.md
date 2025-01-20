@@ -61,6 +61,8 @@ Una vez instalado acceder con: `aws-shell`
 ![image](https://github.com/user-attachments/assets/116ef938-09ed-412c-8f42-0696ff214ec0)
 
 ## **5. Creacion de rol y politica**
+
+- Crear un rol con permisos para **escribir**
 ```bash
 {
   "Version": "2012-10-17",
