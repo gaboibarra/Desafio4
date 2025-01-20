@@ -147,7 +147,7 @@ cp prueba.txt s3://educacionit-cli/
 
 ![image](https://github.com/user-attachments/assets/e7282e2b-cbda-47e5-bc04-4956cab96b70)
 
-## **8. Diagrama
+## **8. Diagrama**
 
 | **Paso**       | **Descripción**                                                                                     |
 |-----------------|-----------------------------------------------------------------------------------------------------|
@@ -158,6 +158,21 @@ cp prueba.txt s3://educacionit-cli/
 | 🔄 **Rol Asumido** | El usuario asume el rol y utiliza las credenciales temporales para autenticarse.                   |
 | 📂 **Acceso a Recursos** | Con las credenciales temporales, el usuario puede realizar acciones permitidas (por ejemplo, `s3:PutObject`). |
 
+### Flujo Visual
+
+```plaintext
+Usuario IAM 👤 
+   ↓
+Credenciales 🔑 
+   ↓
+AWS CLI 🛠 
+   ↓
+STS: Generar Credenciales Temporales 🛡 
+   ↓
+Rol Asumido 🔄 
+   ↓
+Acceso a Recursos 📂
+
 
 ## 🛡️ **Notas Finales**
 
@@ -166,6 +181,7 @@ cp prueba.txt s3://educacionit-cli/
 
 ## 📧 Contacto
 Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
+```
 
 ## 🛠️ **Tecnologías Utilizadas**
 
