@@ -77,4 +77,22 @@ Una vez instalado acceder con: `aws-shell`
 }
 ```
 
-- Crear la política para **asumir** el rol 
+- Crear la política para **asumir** el rol
+
+```bash
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Effect": "Allow",
+      "Principal": {
+        "AWS": "arn:aws:iam::626635449201:user/s3-support"
+      },
+      "Action": "sts:AssumeRole"
+    }
+  ]
+}
+```
+
+
+
