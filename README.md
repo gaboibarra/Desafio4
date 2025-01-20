@@ -52,7 +52,7 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/cee6dc4a-2e56-4615-8fb3-0f790237deee)
 
-## **4. Creacion del Bucket S3**
+## 🗂️ **4. Creacion del Bucket S3**
 
 ![image](https://github.com/user-attachments/assets/7255c44b-109d-4f7c-b886-09c947617084)
 
@@ -60,7 +60,7 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/116ef938-09ed-412c-8f42-0696ff214ec0)
 
-## **5. Creacion de rol y politica**
+## 🛠️ **5. Creacion de rol y politica**
 
 - Crear un rol con permisos para **escribir**
 ```bash
@@ -105,7 +105,7 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/0b7378ec-0c79-4ff2-ad89-200121ff3b46)
 
-## **6. Creacion de usuario IAM s3-support**
+## 👤 **6. Creacion de usuario IAM s3-support**
 
 ![image](https://github.com/user-attachments/assets/1ad3a824-125c-4924-aeff-eb7cb664f7c2)
 
@@ -126,7 +126,7 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/b9b71c75-482d-430a-a714-dee12c285893)
 
-## **7. Probar la escritura en el Bucket**
+## 📝 **7. Probar la escritura en el Bucket**
 
 - Crear un archivo de prueba
 
