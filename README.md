@@ -6,3 +6,11 @@ Este documento detalla los pasos para configurar AWS CLI, crear un bucket en S3 
 - Tener **Python** instalado.
 - Instalar **aws-shell** usando `pip install aws-shell`.
 - Credenciales administrativas para configurar usuarios y políticas en AWS.
+
+
+## **Pasos**
+
+### **1. Configuración del CLI**
+1. Instalar y acceder a `aws-shell` con:
+   ```bash
+   aws-shell
