@@ -158,7 +158,7 @@ cp prueba.txt s3://educacionit-cli/
 | 🔄 **Rol Asumido** | El usuario asume el rol y utiliza las credenciales temporales para autenticarse.                   |
 | 📂 **Acceso a Recursos** | Con las credenciales temporales, el usuario puede realizar acciones permitidas (por ejemplo, `s3:PutObject`). |
 
-### Flujo Visual
+### **Flujo Visual**
 
 ```plaintext
 Usuario IAM 👤 
