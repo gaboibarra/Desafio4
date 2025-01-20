@@ -133,3 +133,4 @@ Una vez instalado acceder con: `aws-shell`
 ```bash
 echo "Prueba de excritura en S3" > prueba.txt
 ```
+![image](https://github.com/user-attachments/assets/dd9eb36a-4b83-4209-b1f3-13c6aa6f6dd9)
