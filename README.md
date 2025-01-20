@@ -2,7 +2,7 @@
 
 Este proyecto detalla los pasos para configurar AWS CLI, crear un bucket en S3 y gestionar permisos utilizando roles y políticas de IAM.
 
-## **1. Instalación de `aws-shell`**
+## 📦 **1. Instalación de `aws-shell`**
 Antes de comenzar, asegúrate de tener instalado **Python**. Luego, instala `aws-shell` usando:
 ```bash
 pip install aws-shell
@@ -10,7 +10,7 @@ pip install aws-shell
 Una vez instalado acceder con: `aws-shell`
 ```
 
-## **2. Configuracion de credenciales en AWS CLI**
+## 🔑 **2. Configuracion de credenciales en AWS CLI**
 - Ingresar a la consola de **AWS** y acceder al servicio IAM -> **Create user**
 
 ![image](https://github.com/user-attachments/assets/ff524d87-43e8-421b-91b6-fcdbe539f4b2)
@@ -41,7 +41,7 @@ Una vez instalado acceder con: `aws-shell`
 
 ![image](https://github.com/user-attachments/assets/c96376a2-473a-479e-b46d-4549637a3d0f)
 
-## **3. Configuracion de CLI de AWS**
+## ⚙️ **3. Configuracion de CLI de AWS**
 
 - Abrir una ventana de CMD y escribir el comando `aws-shell`
 - Configurar el CLI con el Usuario Administrador con el comando `configure`
