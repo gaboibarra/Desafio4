@@ -147,5 +147,13 @@ cp prueba.txt s3://educacionit-cli/
 
 ![image](https://github.com/user-attachments/assets/e7282e2b-cbda-47e5-bc04-4956cab96b70)
 
+## 🛠️ **Tecnologías Utilizadas**
+
+El proyecto se desarrolló utilizando las siguientes herramientas y tecnologías:
+
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) **Python:** Utilizado para instalar y configurar `aws-shell`.
+- ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white) **Amazon Web Services (AWS):** Configuración de S3, IAM y CLI para gestionar servicios en la nube.
+- ![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white) **JSON:** Formato utilizado para definir políticas de IAM.
+- ![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white) **Markdown:** Documentación del proyecto.
 
 
