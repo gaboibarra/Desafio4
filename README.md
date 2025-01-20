@@ -8,4 +8,6 @@ Antes de comenzar, asegúrate de tener instalado **Python**. Luego, instala `aws
 pip install aws-shell
 
 Una vez instalado acceder con: `aws-shell`
+bash```
 
+unavez insatalado
