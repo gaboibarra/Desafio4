@@ -147,6 +147,18 @@ cp prueba.txt s3://educacionit-cli/
 
 ![image](https://github.com/user-attachments/assets/e7282e2b-cbda-47e5-bc04-4956cab96b70)
 
+## **8. Diagrama
+
+| **Paso**       | **Descripción**                                                                                     |
+|-----------------|-----------------------------------------------------------------------------------------------------|
+| 👤 **Usuario IAM** | El usuario IAM inicia el proceso autenticándose con sus credenciales programáticas.               |
+| 🔑 **Credenciales** | Se configuran las credenciales programáticas (Access Key ID y Secret Access Key) en el AWS CLI.  |
+| 🛠 **AWS CLI**    | El CLI envía una solicitud para asumir un rol usando el comando `sts:AssumeRole`.                  |
+| 🛡 **STS (Security Token Service)** | AWS STS genera credenciales temporales (Access Key, Secret Access Key, y Session Token). |
+| 🔄 **Rol Asumido** | El usuario asume el rol y utiliza las credenciales temporales para autenticarse.                   |
+| 📂 **Acceso a Recursos** | Con las credenciales temporales, el usuario puede realizar acciones permitidas (por ejemplo, `s3:PutObject`). |
+
+
 ## 🛡️ **Notas Finales**
 
 - **Seguridad**: Eliminar las credenciales temporales después de completar las pruebas.
