@@ -93,6 +93,16 @@ Una vez instalado acceder con: `aws-shell`
   ]
 }
 ```
+- Crear el rol
+
+![image](https://github.com/user-attachments/assets/5c605228-cf40-4680-b0b5-eb7c367aef04)
+
+- Adjuntar la política al rol
+
+![image](https://github.com/user-attachments/assets/6f3c07b1-f920-4c04-9913-30b18bede42b)
+
+
+
 
 
 
