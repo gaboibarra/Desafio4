@@ -157,8 +157,8 @@ Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-- <i class="fab fa-python"></i> **Python**: Utilizado para instalar y configurar `aws-shell`.
-- <i class="fab fa-aws"></i> **Amazon Web Services (AWS)**: Configuración de S3, IAM y CLI para gestionar servicios en la nube.
-- <i class="fas fa-code"></i> **JSON**: Formato utilizado para definir políticas de IAM.
-- <i class="fas fa-file-alt"></i> **Markdown**: Documentación del proyecto.
+- ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) **Python**: Utilizado para instalar y configurar `aws-shell`.
+- ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg) **Amazon Web Services (AWS)**: Configuración de S3, IAM y CLI para gestionar servicios en la nube.
+- ![JSON](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/code/code-original.svg) **JSON**: Formato utilizado para definir políticas de IAM.
+- ![Markdown](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg) **Markdown**: Documentación del proyecto.
 
