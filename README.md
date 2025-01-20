@@ -157,10 +157,8 @@ Para preguntas o sugerencias, contáctame en gabarra2000@hotmail.com
 
 ## 🛠️ **Tecnologías Utilizadas**
 
-## 🛠️ **Tecnologías Utilizadas**
-
-- <img src="https://cdn.simpleicons.org/python/3776AB" width="20" /> **Python**: Utilizado para instalar y configurar `aws-shell`.
-- <img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="20" /> **Amazon Web Services (AWS)**: Configuración de S3, IAM y CLI para gestionar servicios en la nube.
-- <img src="https://cdn.simpleicons.org/json/000000" width="20" /> **JSON**: Formato utilizado para definir políticas de IAM.
-- <img src="https://cdn.simpleicons.org/markdown/000000" width="20" /> **Markdown**: Documentación del proyecto.
+- <i class="fab fa-python"></i> **Python**: Utilizado para instalar y configurar `aws-shell`.
+- <i class="fab fa-aws"></i> **Amazon Web Services (AWS)**: Configuración de S3, IAM y CLI para gestionar servicios en la nube.
+- <i class="fas fa-code"></i> **JSON**: Formato utilizado para definir políticas de IAM.
+- <i class="fas fa-file-alt"></i> **Markdown**: Documentación del proyecto.
 
