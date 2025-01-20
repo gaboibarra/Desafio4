@@ -111,6 +111,3 @@ Una vez instalado acceder con: `aws-shell`
 
 
 
-
-
-
